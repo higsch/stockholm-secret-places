@@ -9,29 +9,21 @@ Feel free to add places via pull request.
 
 
 ## Restauranger & Kaféer (Restaurants & Cafés)
-- [ ] [Kafé Sjöstugang](https://kafesjostugan.se)
+- [ ] [Kafé Sjöstugang](https://kafesjostugan.se) | [Map](https://goo.gl/maps/Kxqekmj516qDXhKm6)
   
   Close to the lake Brunnsviken. Probably, they have the best Kannelbullar.
-  
-  [Map](https://goo.gl/maps/Kxqekmj516qDXhKm6)
 
-- [ ] [S:t Paul Bageri](https://st-paul-bageri.business.site)
+- [ ] [S:t Paul Bageri](https://st-paul-bageri.business.site) | [Map](https://goo.gl/maps/GVo65V818WrRmcLu6)
   
   Try the smoothies!
 
-  [Map](https://goo.gl/maps/GVo65V818WrRmcLu6)
-
-- [ ] [Ulriksdal Trädgårdscafé](https://www.rappne.se)
+- [ ] [Ulriksdal Trädgårdscafé](https://www.rappne.se) | [Map](https://goo.gl/maps/zBK1LaRXmTCZk9Ei9)
   
   Situated in the middle of endless plants and flowers. Try the buffé!
-  
-  [Map](https://goo.gl/maps/zBK1LaRXmTCZk9Ei9)
 
-- [ ] [Organic Restaurang Stora Skuggan](http://carolaseko.se)
+- [ ] [Organic Restaurang Stora Skuggan](http://carolaseko.se) | [Map](https://goo.gl/maps/CxVptguHhoKFa4Hq6)
   
   Eat and play at one place. Try the pizza!
-
-  [Map](https://goo.gl/maps/CxVptguHhoKFa4Hq6)
 
 
 ## Utomhus (Outdoor)
@@ -49,8 +41,6 @@ Feel free to add places via pull request.
 
 
 ## Museer (Museums)
-- [ ] [Polismuseet](https://polismuseet.se)
+- [ ] [Polismuseet](https://polismuseet.se) | [Map](https://goo.gl/maps/Zym7TE522gYvV1Qc6)
   
   Especially when you have children. Explore the Swedish police!
-
-  [Map](https://goo.gl/maps/Zym7TE522gYvV1Qc6)
