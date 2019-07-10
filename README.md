@@ -25,6 +25,10 @@ Feel free to add places via pull request.
   
   Eat and play at one place. Try the pizza!
 
+- [ ] [Stavsnäs Hembageri](https://www.facebook.com/aktiebolaget/) | [Map](https://goo.gl/maps/n8c3sczNyM1vv7E88)
+  
+  In the middle of Stockholm's Skärgård and very calm.
+
 
 ## Utomhus (Outdoor)
 - [ ] [Södermalm](https://www.google.com/maps/place/Södermalm/@59.3123056,18.0490027,14z/data=!3m1!4b1!4m5!3m4!1s0x465f77e516aea773:0x7ad81b0f9e3a6642!8m2!3d59.3125268!4d18.0616188)
@@ -44,3 +48,9 @@ Feel free to add places via pull request.
 - [ ] [Polismuseet](https://polismuseet.se) | [Map](https://goo.gl/maps/Zym7TE522gYvV1Qc6)
   
   Especially when you have children. Explore the Swedish police!
+
+
+## Övernatta (Stay)
+- [ ] [Lillsved Vandrarhem](https://lillsved.se/stfvandrarhem/) | [Map](https://www.google.com/maps/place//data=!4m2!3m1!1s0x46f57d7e5a953e8b:0x56a82abd571d3a80?utm_source=mstt_1)
+  
+  Cheap and in the middle of nature in Stockholm's Skärgård.
