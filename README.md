@@ -53,4 +53,4 @@ Feel free to add places via pull request.
 ## Övernatta (Stay)
 - [ ] [Lillsved Vandrarhem](https://lillsved.se/stfvandrarhem/) | [Map](https://www.google.com/maps/place//data=!4m2!3m1!1s0x46f57d7e5a953e8b:0x56a82abd571d3a80?utm_source=mstt_1)
   
-  Cheap and in the middle of nature in Stockholm's Skärgård.
+  Cheap and in the middle of nature in Stockholm's Skärgård. With a [nice little café](http://cafesjostugan.se) including beach next to it.
